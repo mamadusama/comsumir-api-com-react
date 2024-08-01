@@ -23,4 +23,4 @@
 ##  5- dentro de retorno do componente chame variavel de useState e faça um mapiamento nele já que ele recebeu um array de objetos,
 (esse map recebe um arrow function que por sua vez recebe um parametro que é cada item da lista).
 
-# 6- dentro do map retorne um html (um tsx) com as propriedades do item da lista.
+# 6- dentro do map retorne um html (um tsx, tags html dentro de javascript) com as propriedades do item da lista 

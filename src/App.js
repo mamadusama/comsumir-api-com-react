@@ -37,7 +37,7 @@ function App() {
               <img src={item.capa} alt={item.titulo}/>
               <p className="subtitulo">{item.subtitulo}</p>
               <h2>Categoria: {item.categoria}</h2>
-              <a className="botao" href="#">Acessar</a>
+              <a className="botao" href="#">Acessar conteúdo</a>
              
             </article>
           );
